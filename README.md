@@ -1,4 +1,4 @@
-#A-Waker: An AI-driven Context-Aware Music Alarm System
+# A-Waker: An AI-driven Context-Aware Music Alarm System
 
 # 智慧鬧鐘系統 Smart Alarm System
 
