@@ -1,3 +1,5 @@
+#A-Waker: An AI-driven Context-Aware Music Alarm System
+
 # 智慧鬧鐘系統 Smart Alarm System
 
 透過 **Line Bot** 設定鬧鐘 → **鬧鐘時間到時**依 Pi 偵測的即時溫濕度自動選歌 → **PC** 播放音樂並用 FFT 分析節奏 → 即時控制 **Pi 上的 LED 燈條**。
